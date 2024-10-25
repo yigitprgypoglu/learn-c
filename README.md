@@ -1,7 +1,1 @@
-# learn-c
-#include<stdio.h>
-
-int main()
-{
-printf("hello world");
-}
+I will learn to you c language and I will learn to myself :)
