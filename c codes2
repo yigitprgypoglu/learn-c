@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+void main()
+{
+  int speed = 50
+  int time = 2
+  float road;
+  road = speed * time;
+  printf("road:");
+  printf("%d", road);
+
+
+getch():
+}
